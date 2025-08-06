@@ -48,7 +48,7 @@ Built with **Python, Streamlit, Plotly, and scikit-learn**, this app transforms 
    cd employee-salary-prediction
 
 
-   ## 🌐 Live Demo
+## 🌐 Live Demo
 
 🔗 **Try the App Here:** [Employee Salary Estimation App](https://employee-salary-prediction-dadejahnavi.streamlit.app/)
 
